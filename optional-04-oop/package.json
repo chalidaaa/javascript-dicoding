@@ -1,0 +1,17 @@
+{
+  "name": "sistem-manajemen-inventaris",
+  "version": "1.0.0",
+  "description": "Sistem manajemen inventaris barang sederhana",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "Chalida Abdat",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.19"
+  }
+}
